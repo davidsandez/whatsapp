@@ -1,0 +1,10 @@
+---
+preset: psr2
+risky: true
+version: 8
+finder:
+  name:
+    - "*.php"
+enabled:
+  - short_array_syntax
+  - cast_spaces
